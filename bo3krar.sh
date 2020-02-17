@@ -5,8 +5,8 @@ sudo apt install git -y
 sudo apt install python -y
 sudo apt install python2 -y
 sudo apt install python3 -y
-sudo apt install python-pip
-sudo apt install python3-pip
+sudo apt install python-pip -y
+sudo apt install python3-pip -y
 pip install rarfile
 clear
 echo ""
