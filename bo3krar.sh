@@ -5,6 +5,8 @@ sudo apt install git -y
 sudo apt install python -y
 sudo apt install python2 -y
 sudo apt install python3 -y
+sudo apt install python-pip
+sudo apt install python3-pip
 pip install rarfile
 clear
 echo ""
@@ -25,11 +27,11 @@ echo "       MMN       MMMMM  MNM       MMM MMM        MMM MNM      NNM      MMM
 echo "       MMNMMMMMMMMMMM    NMMMMMMMNMM  MMMMMMMMMMNNN  MNN      NNMMMM   MM  MM  MM   MM MM  MM       "
 echo " . . .  MMMMMMMMMMMM      MNNNNNNNN    MMMMMMMMMMM  MMNN      NNMMMMM  MM  MMM MM   MM MM  MMM  ... "
 setterm -foreground white
-echo "         This is a crack for Rar files that works with a dictionary.                       "
-echo "                   Can you put a custom dictionary on it.                                  "
-echo "                    In thanks to Error 404 @error404.org                                   "
-echo "                By: BO3K 404 SHL FOUNDER OF KRYPTÓN SECURITY.                              "
-echo "                             boeckgarcia@gmail.com                                         "
+echo "         This is a crack for Rar files that works with a dictionary.                                "
+echo "                   Can you put a custom dictionary on it.                                           "
+echo "                    In thanks to Error 404 @error404.org                                            "
+echo "                By: BO3K 404 SHL FOUNDER OF KRYPTÓN SECURITY.                                       "
+echo "                             boeckgarcia@gmail.com                                                  "
 setterm -foreground white
 sleep 2
 setterm -foreground green
