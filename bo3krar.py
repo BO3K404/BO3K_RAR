@@ -4,7 +4,7 @@ import rarfile
 import optparse 
 from threading import Thread
 
-print ("STARTING BO3KZIP") 
+print ("STARTING BO3KRAR") 
 def extractFile(rfile,password):
     try:
        rfile.extractall(pwd=password) 
